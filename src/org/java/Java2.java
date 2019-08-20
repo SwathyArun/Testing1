@@ -25,7 +25,7 @@ public class Java2 {
 							System.out.println("not valid");
 						}
 					}else {
-						System.out.println("not valid");
+						System.out.println("not");
 					}
 						
 				}
