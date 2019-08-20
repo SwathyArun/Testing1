@@ -18,7 +18,14 @@ public class Java2 {
 						 || (ch == '7') || (ch == '8') || (ch == '9')){
 						res=x;
 						System.out.println(res);
-						
+						if(n.contains(res)) {
+							System.out.println("valid");
+						}else
+						{
+							System.out.println("not valid");
+						}
+					}else {
+						System.out.println("not valid");
 					}
 						
 				}
