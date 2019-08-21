@@ -22,7 +22,7 @@ public class Java2 {
 							System.out.println("valid");
 						}else
 						{
-							System.out.println("not valid");
+							System.out.println("not validate");
 						}
 					}else {
 						System.out.println("not nice");
